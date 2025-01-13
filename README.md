@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+
+## Reference Info Links
+- [How to setup vitest with typescript](https://akoskm.com/how-to-test-react-apps-with-vitest-and-vite/)
+- https://dev.to/juan_deto/configure-vitest-msw-and-playwright-in-a-react-project-with-vite-and-ts-1d92
+- 

@@ -1,0 +1,1165 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://interactive/95685854-0cf2-5dda-bc2f-9ed3b89bf168",
+      "url": "https://www.nytimes.com/interactive/2025/01/08/weather/los-angeles-fire-maps-california.html",
+      "id": 100000009913911,
+      "asset_id": 100000009913911,
+      "source": "New York Times",
+      "published_date": "2025-01-08",
+      "updated": "2025-01-12 23:11:12",
+      "section": "Weather",
+      "subsection": "",
+      "nytdsection": "weather",
+      "adx_keywords": "Wildfires;Southern California Wildfires (Jan 2025);internal-open-access;Los Angeles (Calif)",
+      "column": null,
+      "byline": "By Camille Baker, William B. Davis, Madison Dong, Zach Levitt, Joey K. Lee, Bea Malsky, Lazaro Gamio, John Keefe, Agnes Chang and Pablo Robles",
+      "type": "Interactive",
+      "title": "Maps: Tracking the Los Angeles Wildfires",
+      "abstract": "See the latest extent of the devastating fires in the Los Angeles area.",
+      "des_facet": [
+        "Wildfires",
+        "Southern California Wildfires (Jan 2025)",
+        "internal-open-access"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Los Angeles (Calif)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/2025-01-08-palisades-fire-index/2025-01-08-palisades-fire-index-thumbStandard-v28.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/2025-01-08-palisades-fire-index/2025-01-08-palisades-fire-index-mediumThreeByTwo210-v28.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/2025-01-08-palisades-fire-index/2025-01-08-palisades-fire-index-mediumThreeByTwo440-v28.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9e12d241-870e-5955-be54-eaaa281ed5db",
+      "url": "https://www.nytimes.com/2025/01/12/opinion/los-angeles-fires.html",
+      "id": 100000009920318,
+      "asset_id": 100000009920318,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-12 22:46:07",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Fires and Firefighters;Global Warming;Anger (Emotion);Wildfires;Disasters and Emergencies;Grief (Emotion);Southern California Wildfires (Jan 2025);California;Malibu (Calif);Pacific Palisades (Calif)",
+      "column": null,
+      "byline": "By Patti Davis",
+      "type": "Article",
+      "title": "The Dream of California Is Up in Smoke",
+      "abstract": "Los Angeles seemed like paradise. Who could have imagined where it would lead?",
+      "des_facet": [
+        "Fires and Firefighters",
+        "Global Warming",
+        "Anger (Emotion)",
+        "Wildfires",
+        "Disasters and Emergencies",
+        "Grief (Emotion)",
+        "Southern California Wildfires (Jan 2025)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "California",
+        "Malibu (Calif)",
+        "Pacific Palisades (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kyle Grillot for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/13/multimedia/12davis-gvth/12davis-gvth-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/13/multimedia/12davis-gvth/12davis-gvth-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/13/multimedia/12davis-gvth/12davis-gvth-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/24163a57-aeb0-5625-99a5-7f4e858f4445",
+      "url": "https://www.nytimes.com/2025/01/11/opinion/columnists/five-presidents-and-a-funeral.html",
+      "id": 100000009914408,
+      "asset_id": 100000009914408,
+      "source": "New York Times",
+      "published_date": "2025-01-11",
+      "updated": "2025-01-11 16:05:24",
+      "section": "Opinion",
+      "subsection": "Columnists",
+      "nytdsection": "opinion",
+      "adx_keywords": "Funerals and Memorials;United States Politics and Government;Presidents and Presidency (US);Carter, Jimmy;Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "Five Presidents and a Funeral",
+      "abstract": "The pious Carter and profane Trump had some things in common.",
+      "des_facet": [
+        "Funerals and Memorials",
+        "United States Politics and Government",
+        "Presidents and Presidency (US)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Carter, Jimmy", "Biden, Joseph R Jr", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jacquelyn Martin/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11dowd-tqlk/11dowd-tqlk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11dowd-tqlk/11dowd-tqlk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11dowd-tqlk/11dowd-tqlk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ced720f5-9e2d-5881-beb7-e7367af14de4",
+      "url": "https://www.nytimes.com/2025/01/11/style/new-hope-pa-bucks-county.html",
+      "id": 100000009888059,
+      "asset_id": 100000009888059,
+      "source": "New York Times",
+      "published_date": "2025-01-11",
+      "updated": "2025-01-12 18:16:00",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Celebrities;Real Estate and Housing (Residential);vis-photo;Bucks County (Pa);New Hope (Pa)",
+      "column": null,
+      "byline": "By Steven Kurutz and Hannah Yoon",
+      "type": "Article",
+      "title": "How Sleepy Bucks County Became a Rival to the Hamptons",
+      "abstract": "First came the Hadids. Then Bradley Cooper. Now, with luxury inns going up, the area around New Hope, Pa. is taking a glamorous turn.",
+      "des_facet": [
+        "Celebrities",
+        "Real Estate and Housing (Residential)",
+        "vis-photo"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Bucks County (Pa)", "New Hope (Pa)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sightings of social media stars and Hollywood actors have lately become more common in New Hope, Pa., a picturesque town on the western bank of the Delaware River.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/11NEWHOPE-03-vgfz/11NEWHOPE-03-vgfz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/11NEWHOPE-03-vgfz/11NEWHOPE-03-vgfz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/11NEWHOPE-03-vgfz/11NEWHOPE-03-vgfz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/18712011-c20f-5f86-b983-88447d3df3af",
+      "url": "https://www.nytimes.com/2025/01/11/opinion/columnists/o-canada-come-join-us.html",
+      "id": 100000009876816,
+      "asset_id": 100000009876816,
+      "source": "New York Times",
+      "published_date": "2025-01-11",
+      "updated": "2025-01-12 10:43:19",
+      "section": "Opinion",
+      "subsection": "Columnists",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States International Relations;United States Politics and Government;Conservatism (US Politics);Trump, Donald J;Trudeau, Justin;Republican Party;Canada;United States",
+      "column": null,
+      "byline": "By Ross Douthat",
+      "type": "Article",
+      "title": "O Canada, Come Join Us",
+      "abstract": "Perhaps Trump is not making a threat but offering an opportunity.",
+      "des_facet": [
+        "United States International Relations",
+        "United States Politics and Government",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Trump, Donald J", "Trudeau, Justin"],
+      "geo_facet": ["Canada", "United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Artur Widak/NurPhoto, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/13/opinion/11douthat1/11douthat1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/13/opinion/11douthat1/11douthat1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/13/opinion/11douthat1/11douthat1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/33f4500e-0668-563b-a499-e362dad3440e",
+      "url": "https://www.nytimes.com/2025/01/11/us/politics/trump-photo-carter-funeral.html",
+      "id": 100000009921629,
+      "asset_id": 100000009921629,
+      "source": "New York Times",
+      "published_date": "2025-01-11",
+      "updated": "2025-01-12 11:55:16",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Funerals and Memorials;Social Media;Photography;Presidents and Presidency (US);United States Politics and Government;Carter, Jimmy;Carter Center;Washington National Cathedral",
+      "column": null,
+      "byline": "By Neil Vigdor",
+      "type": "Article",
+      "title": "Kamala Harris Shares a Trump-less Photo of Presidents at Jimmy Carter’s Funeral",
+      "abstract": "Pictures shared on social media by the vice president and by the Carter Center prominently showed other past presidents in attendance.",
+      "des_facet": [
+        "Funerals and Memorials",
+        "Social Media",
+        "Photography",
+        "Presidents and Presidency (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Carter Center", "Washington National Cathedral"],
+      "per_facet": ["Carter, Jimmy"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A photo taken from a different perspective than the ones shared by Vice President Kamala Harris and the Carter Center shows President-elect Donald J. Trump and his wife, Melania, at the end of the second row.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11dc-funeral-trump-zgvk/11dc-funeral-trump-zgvk-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11dc-funeral-trump-zgvk/11dc-funeral-trump-zgvk-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11dc-funeral-trump-zgvk/11dc-funeral-trump-zgvk-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c18af545-bc38-57d1-9d9a-747d7e4e36d0",
+      "url": "https://www.nytimes.com/2025/01/12/opinion/ai-climate-change-low-birth-rates.html",
+      "id": 100000009910031,
+      "asset_id": 100000009910031,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-12 07:30:14",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Artificial Intelligence;Search Engines;Computers and the Internet;International Relations;Global Warming;United States International Relations;United States Economy;United States Politics and Government;Musk, Elon;Trump, Donald J",
+      "column": null,
+      "byline": "By Ezra Klein",
+      "type": "Article",
+      "title": "‘Now Is the Time of Monsters’",
+      "abstract": "Four trends are converging to make life much scarier.",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Search Engines",
+        "Computers and the Internet",
+        "International Relations",
+        "Global Warming",
+        "United States International Relations",
+        "United States Economy",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": ["Musk, Elon", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Anthony Gerace. Photograph by Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/12Klein/12Klein-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/12Klein/12Klein-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/12Klein/12Klein-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/80291c97-3957-5eba-bcec-2ea858074297",
+      "url": "https://www.nytimes.com/2025/01/12/opinion/administrative-deep-state-trump.html",
+      "id": 100000009918397,
+      "asset_id": 100000009918397,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-12 07:00:24",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Government Employees;Workplace Environment;United States",
+      "column": null,
+      "byline": "By Stacey Young",
+      "type": "Article",
+      "title": "I’m a Federal Employee. This Is What We Need Most in the Trump Era.",
+      "abstract": "Practical support matters more than encouragement.",
+      "des_facet": ["Government Employees", "Workplace Environment"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kent Nishimura for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12young-bqjg/12young-bqjg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12young-bqjg/12young-bqjg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12young-bqjg/12young-bqjg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4dea751c-67fd-5220-8409-78b0539f7d46",
+      "url": "https://www.nytimes.com/2025/01/12/opinion/meghan-markle-netflix-haters.html",
+      "id": 100000009917109,
+      "asset_id": 100000009917109,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-12 07:00:24",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Royal Families;Television;Harry, Duke of Sussex;Markle, Meghan;Stewart, Martha;Archewell Inc",
+      "column": null,
+      "byline": "By Louis Staples",
+      "type": "Article",
+      "title": "Martha, Nigella, Meghan Markle?",
+      "abstract": "Her every move seems to spark a backlash. But by launching a lifestyle show on Netflix, Meghan may yet find her fairy-tale ending.",
+      "des_facet": ["Royal Families", "Television"],
+      "org_facet": ["Archewell Inc"],
+      "per_facet": [
+        "Harry, Duke of Sussex",
+        "Markle, Meghan",
+        "Stewart, Martha"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rozalina Burkova",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/12staples/12staples-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/12staples/12staples-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/12staples/12staples-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2064d031-2083-5df7-b95a-90851a654171",
+      "url": "https://www.nytimes.com/2025/01/11/us/politics/jack-smith-special-counsel-resigns.html",
+      "id": 100000009921675,
+      "asset_id": 100000009921675,
+      "source": "New York Times",
+      "published_date": "2025-01-11",
+      "updated": "2025-01-12 10:31:39",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Federal Criminal Case Against Trump (Documents Case);Federal Criminal Case Against Trump (2020 Election Case);United States Politics and Government;Special Prosecutors (Independent Counsel);Smith, Jack (Attorney);Trump, Donald J;Justice Department",
+      "column": null,
+      "byline": "By Glenn Thrush and Alan Feuer",
+      "type": "Article",
+      "title": "Jack Smith, Who Led Prosecutions of Trump, Resigns",
+      "abstract": "Mr. Smith, a special counsel appointed by Attorney General Merrick B. Garland, had signaled that he would step down before Donald J. Trump’s inauguration.",
+      "des_facet": [
+        "Federal Criminal Case Against Trump (Documents Case)",
+        "Federal Criminal Case Against Trump (2020 Election Case)",
+        "United States Politics and Government",
+        "Special Prosecutors (Independent Counsel)"
+      ],
+      "org_facet": ["Justice Department"],
+      "per_facet": ["Smith, Jack (Attorney)", "Trump, Donald J"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jack Smith, the special counsel, in August 2023.",
+          "copyright": "Kevin Wurm/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11jack-smith-cwbl-hp/11jack-smith-cwbl-hp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11jack-smith-cwbl-hp/11jack-smith-cwbl-hp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11jack-smith-cwbl-hp/11jack-smith-cwbl-hp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9e3685b3-68f5-59f2-806d-8d774744910f",
+      "url": "https://www.nytimes.com/2025/01/12/nyregion/metropolitan-diary.html",
+      "id": 100000009906623,
+      "asset_id": 100000009906623,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-13 00:39:56",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "New York City",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "‘She Was Often the Only Bright Spot in My Otherwise Grim Days’",
+      "abstract": "A vendor with a sharp memory, puzzling behavior on the A train and more reader tales of New York City in this week’s Metropolitan Diary.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["New York City"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/nyregion/12diary-illos-print4/12diary-illos-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/nyregion/12diary-illos-print4/12diary-illos-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/nyregion/12diary-illos-print4/12diary-illos-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/79e04acc-bda8-59c5-af89-a14b5f6be1d8",
+      "url": "https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html",
+      "id": 100000009910864,
+      "asset_id": 100000009910864,
+      "source": "New York Times",
+      "published_date": "2025-01-09",
+      "updated": "2025-01-11 22:56:05",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Content Type: Personal Profile;Presidential Transition (US);Appointments and Executive Changes;United States Politics and Government;Presidential Election of 2024;Inaugurations;Wiles, Susie;Trump, Donald J;Ballard, Brian D;DeSantis, Ron;Summerall, Pat",
+      "column": null,
+      "byline": "By Elisabeth Bumiller",
+      "type": "Article",
+      "title": "The ‘Ice Maiden’ Cometh: Can Susie Wiles, Trump’s Chief of Staff, Survive?",
+      "abstract": "As Ms. Wiles heads to Washington, the view in Trump World is that the president-elect’s closest aide and veteran strategist has a better chance than anyone.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Presidential Transition (US)",
+        "Appointments and Executive Changes",
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Inaugurations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Wiles, Susie",
+        "Trump, Donald J",
+        "Ballard, Brian D",
+        "DeSantis, Ron",
+        "Summerall, Pat"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Susie Wiles has told President-elect Donald J. Trump that it is her intention to stay all four years as chief of staff. “I’m going to try my best and give it everything I have,” she said.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/08dc-wiles-topart-sub-vjwk/08dc-wiles-topart-sub-vjwk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/08dc-wiles-topart-sub-vjwk/08dc-wiles-topart-sub-vjwk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/08/multimedia/08dc-wiles-topart-sub-vjwk/08dc-wiles-topart-sub-vjwk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/409f27d5-0853-5884-96d2-5db4bc059f0d",
+      "url": "https://www.nytimes.com/2025/01/11/business/trump-greenland-cost.html",
+      "id": 100000009921137,
+      "asset_id": 100000009921137,
+      "source": "New York Times",
+      "published_date": "2025-01-11",
+      "updated": "2025-01-12 22:41:21",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Trump, Donald J;Greenland",
+      "column": null,
+      "byline": "By Sarah Kessler",
+      "type": "Article",
+      "title": "How Much Would Buying Greenland Cost?",
+      "abstract": "President-elect Donald Trump wants to buy the territory from Denmark, which says it’s not for sale. DealBook asked experts how they’d approach the deal.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["Greenland"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aircraft carrying Donald Trump Jr. after his visit to Greenland this week.",
+          "copyright": "Emil Stach/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/business/11DB-GREENLAND/11DB-GREENLAND-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/business/11DB-GREENLAND/11DB-GREENLAND-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/business/11DB-GREENLAND/11DB-GREENLAND-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a9510141-d1bf-503a-bafc-d0c012581f57",
+      "url": "https://www.nytimes.com/2025/01/12/us/private-firefighters-la-wildfires.html",
+      "id": 100000009921626,
+      "asset_id": 100000009921626,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-12 23:50:38",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Southern California Wildfires (Jan 2025);Fires and Firefighters;Privatization;Hiring and Promotion;Urban Areas;Real Estate and Housing (Residential);Water;Caruso, Rick J;Grayack Forestry;Wildfire Defense Systems;National Wildfire Protection Service;National Wildfire Suppression Assn;Los Angeles (Calif);Pacific Palisades (Calif);Los Angeles County (Calif);Runyon Canyon (Los Angeles, Calif)",
+      "column": null,
+      "byline": "By Tim Arango and Debra Kamin",
+      "type": "Article",
+      "title": "‘Will Pay Any Amount’: Private Firefighters Are in Demand in L.A.",
+      "abstract": "Hiring a private fire crew costs thousands of dollars a day, and most work through government contracts or with insurance companies. Some wealthy property owners are calling them in directly.",
+      "des_facet": [
+        "Southern California Wildfires (Jan 2025)",
+        "Fires and Firefighters",
+        "Privatization",
+        "Hiring and Promotion",
+        "Urban Areas",
+        "Real Estate and Housing (Residential)",
+        "Water"
+      ],
+      "org_facet": [
+        "Grayack Forestry",
+        "Wildfire Defense Systems",
+        "National Wildfire Protection Service",
+        "National Wildfire Suppression Assn"
+      ],
+      "per_facet": ["Caruso, Rick J"],
+      "geo_facet": [
+        "Los Angeles (Calif)",
+        "Pacific Palisades (Calif)",
+        "Los Angeles County (Calif)",
+        "Runyon Canyon (Los Angeles, Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Private firefighting crews and water tankers saved the Palisades Village shopping center from destruction while much of the surrounding neighborhood of Pacific Palisades burned. ",
+          "copyright": "Ariana Drehsler for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12nat-private-fighters-ctfb/12nat-private-fighters-ctfb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12nat-private-fighters-ctfb/12nat-private-fighters-ctfb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12nat-private-fighters-ctfb/12nat-private-fighters-ctfb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/213ddf57-54e4-5196-9777-7fc30b5e19c8",
+      "url": "https://www.nytimes.com/2025/01/12/nyregion/carol-acosta-killadamente-dominican-diaspora.html",
+      "id": 100000009912079,
+      "asset_id": 100000009912079,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-12 03:00:18",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Social Media;Children and Childhood;Beauty (Concept);Dominican-Americans;Fashion and Apparel;Deaths (Fatalities);Instagram Inc;Newark (NJ);New Jersey",
+      "column": null,
+      "byline": "By Shayla Colon and Wesley Parnell",
+      "type": "Article",
+      "title": "Online, She Inspired Millions. At Home, She Was a Single Mother of 2.",
+      "abstract": "Carol Acosta, known to her fans as “Killadamente,” transformed herself into a social media influencer with a message of self-love. The Dominican American star died last week at the age of 27.",
+      "des_facet": [
+        "Social Media",
+        "Children and Childhood",
+        "Beauty (Concept)",
+        "Dominican-Americans",
+        "Fashion and Apparel",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": ["Instagram Inc"],
+      "per_facet": [],
+      "geo_facet": ["Newark (NJ)", "New Jersey"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Carol Acosta’s ascent was fueled in part by her fashion sense.",
+          "copyright": "Ethan Miller/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/nyregion/07killadamente/07killadamente-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/nyregion/07killadamente/07killadamente-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/07/nyregion/07killadamente/07killadamente-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/501a471b-7228-5734-a301-4c31d006f333",
+      "url": "https://www.nytimes.com/2025/01/09/us/california-fires-victims.html",
+      "id": 100000009916739,
+      "asset_id": 100000009916739,
+      "source": "New York Times",
+      "published_date": "2025-01-09",
+      "updated": "2025-01-12 21:42:49",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Fires and Firefighters;Deaths (Fatalities);Evacuations and Evacuees;Wildfires;internal-open-access;Los Angeles County Sheriff's Department;Angeles National Forest (Calif);Los Angeles (Calif);Altadena (Calif)",
+      "column": null,
+      "byline": "By Stephanie Saul, Mimi Dwyer, Shaila Dewan, Troy Closson, Claire Fahy and Kate Selig",
+      "type": "Article",
+      "title": "Who Are the Victims of the California Fires?",
+      "abstract": "At least 24 people have been reported dead in fires raging across Los Angeles. Five lived near each other in a ravaged Altadena neighborhood.",
+      "des_facet": [
+        "Fires and Firefighters",
+        "Deaths (Fatalities)",
+        "Evacuations and Evacuees",
+        "Wildfires",
+        "internal-open-access"
+      ],
+      "org_facet": ["Los Angeles County Sheriff's Department"],
+      "per_facet": [],
+      "geo_facet": [
+        "Angeles National Forest (Calif)",
+        "Los Angeles (Calif)",
+        "Altadena (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Firefighters responded to the Eaton fire on Tuesday.",
+          "copyright": "Philip Cheung for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/09/multimedia/09california-fires-victims-01-tqbg/09california-fires-victims-01-tqbg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/09/multimedia/09california-fires-victims-01-tqbg/09california-fires-victims-01-tqbg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/09/multimedia/09california-fires-victims-01-tqbg/09california-fires-victims-01-tqbg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6fee508d-621d-5a3d-ba10-eaea197289a9",
+      "url": "https://www.nytimes.com/2025/01/12/us/richard-hays-dead.html",
+      "id": 100000009920040,
+      "asset_id": 100000009920040,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-12 16:33:13",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deaths (Obituaries);Christians and Christianity;Homosexuality and Bisexuality;Evangelical Movement;Same-Sex Marriage, Civil Unions and Domestic Partnerships;Bible;Books and Literature;Hays, Richard B;Duke Divinity School",
+      "column": null,
+      "byline": "By Trip Gabriel",
+      "type": "Article",
+      "title": "Richard Hays, 76, Dies; Theologian Who Had Stunning Change of Heart",
+      "abstract": "He released a thunderclap into the evangelical world by asserting that a deeper reading of the Bible revealed that same-sex relationships are not sinful.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Christians and Christianity",
+        "Homosexuality and Bisexuality",
+        "Evangelical Movement",
+        "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+        "Bible",
+        "Books and Literature"
+      ],
+      "org_facet": ["Duke Divinity School"],
+      "per_facet": ["Hays, Richard B"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The theologian Richard B. Hays in an undated photo. He once provided a full-on argument from Scripture against gay relationships but later changed his mind.",
+          "copyright": "Duke University",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11hays-1-mglk/11hays-1-mglk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11hays-1-mglk/11hays-1-mglk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/11/multimedia/11hays-1-mglk/11hays-1-mglk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/15d75b2c-0877-5292-b949-c2945fec5c0d",
+      "url": "https://www.nytimes.com/2025/01/07/style/school-of-rock-caitlin-hale-angelo-massagli-wedding.html",
+      "id": 100000009900961,
+      "asset_id": 100000009900961,
+      "source": "New York Times",
+      "published_date": "2025-01-07",
+      "updated": "2025-01-10 17:27:54",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Weddings and Engagements",
+      "column": null,
+      "byline": "By Madison Malone Kircher",
+      "type": "Article",
+      "title": "They Met as Child Actors in ‘School of Rock.’ Now They’re Married.",
+      "abstract": "Angelo Massagli and Caitlin Hale bonded as classmates in the 2003 Jack Black film. They brought the cast back together for their wedding.",
+      "des_facet": ["Weddings and Engagements"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "When Angelo Massagli watched Caitlin Hale audition for “School of Rock,” he thought, “Wow, that girl’s really, really, really something else.” They held a wedding celebration on Jan. 4 in East Brunswick, N.J.",
+          "copyright": "Julian Ribinik Studios",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/10VOWS-SCHOOL-OF-ROCK-02-jptz/10VOWS-SCHOOL-OF-ROCK-02-jptz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/10VOWS-SCHOOL-OF-ROCK-02-jptz/10VOWS-SCHOOL-OF-ROCK-02-jptz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/multimedia/10VOWS-SCHOOL-OF-ROCK-02-jptz/10VOWS-SCHOOL-OF-ROCK-02-jptz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/89e24994-d643-5cea-a85b-69bd6ca634f6",
+      "url": "https://www.nytimes.com/2025/01/10/opinion/american-immigration-immigrants.html",
+      "id": 100000009886722,
+      "asset_id": 100000009886722,
+      "source": "New York Times",
+      "published_date": "2025-01-10",
+      "updated": "2025-01-11 15:15:51",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Immigration and Emigration;Illegal Immigration;Foreign Workers;Citizenship and Naturalization;United States Politics and Government;Birmingham (Ala);Houston (Tex)",
+      "column": null,
+      "byline": "By The Editorial Board",
+      "type": "Article",
+      "title": "A Big Idea to Solve America’s Immigration Mess",
+      "abstract": "Fixing America’s broken immigration system starts with acknowledging that the United States needs more people.",
+      "des_facet": [
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Foreign Workers",
+        "Citizenship and Naturalization",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Birmingham (Ala)", "Houston (Tex)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Chantal Jahchan",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/10Immigration/10Immigration-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/10Immigration/10Immigration-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/12/opinion/10Immigration/10Immigration-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0dc867b4-933e-52a6-93d3-4574e63f9a28",
+      "url": "https://www.nytimes.com/2025/01/12/us/palisades-wildfires.html",
+      "id": 100000009918098,
+      "asset_id": 100000009918098,
+      "source": "New York Times",
+      "published_date": "2025-01-12",
+      "updated": "2025-01-12 22:41:41",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Southern California Wildfires (Jan 2025);Pacific Palisades (Calif);Sunset Boulevard (Los Angeles, Calif);Los Angeles (Calif)",
+      "column": null,
+      "byline": "By Billy Witz",
+      "type": "Article",
+      "title": "Palisades Lost",
+      "abstract": "Days after a devastating wildfire, residents of Pacific Palisades have started sifting through the ruins, and their memories.",
+      "des_facet": ["Southern California Wildfires (Jan 2025)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Pacific Palisades (Calif)",
+        "Sunset Boulevard (Los Angeles, Calif)",
+        "Los Angeles (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kyle Grillot for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/10/multimedia/10NAT-LAFIRE-PALISADES-01-qbzh/10NAT-LAFIRE-PALISADES-01-qbzh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/10/multimedia/10NAT-LAFIRE-PALISADES-01-qbzh/10NAT-LAFIRE-PALISADES-01-qbzh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/10/multimedia/10NAT-LAFIRE-PALISADES-01-qbzh/10NAT-LAFIRE-PALISADES-01-qbzh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
