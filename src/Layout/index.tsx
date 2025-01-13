@@ -1,17 +1,17 @@
 import { Outlet } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
 
-type Props = {};
-
-const Layout = (props: Props) => {
+const Layout = () => {
   return (
-    <div>
+    <>
       <header>
-        <h1>New york times most popular by jay poojara</h1>
+        <h1>New york times most popular list</h1>
       </header>
       <section>
         <Outlet />
       </section>
-    </div>
+      <ToastContainer />
+    </>
   );
 };
 
