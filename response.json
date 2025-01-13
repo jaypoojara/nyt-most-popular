@@ -1,0 +1,52 @@
+{
+  "uri": "nyt://article/80291c97-3957-5eba-bcec-2ea858074297",
+  "url": "https://www.nytimes.com/2025/01/12/opinion/administrative-deep-state-trump.html",
+  "id": 100000009918397,
+  "asset_id": 100000009918397,
+  "source": "New York Times",
+  "published_date": "2025-01-12",
+  "updated": "2025-01-12 07:00:24",
+  "section": "Opinion",
+  "subsection": "",
+  "nytdsection": "opinion",
+  "adx_keywords": "Government Employees;Workplace Environment;United States",
+  "column": null,
+  "byline": "By Stacey Young",
+  "type": "Article",
+  "title": "I’m a Federal Employee. This Is What We Need Most in the Trump Era.",
+  "abstract": "Practical support matters more than encouragement.",
+  "des_facet": ["Government Employees", "Workplace Environment"],
+  "org_facet": [],
+  "per_facet": [],
+  "geo_facet": ["United States"],
+  "media": [
+    {
+      "type": "image",
+      "subtype": "photo",
+      "caption": "",
+      "copyright": "Kent Nishimura for The New York Times",
+      "approved_for_syndication": 1,
+      "media-metadata": [
+        {
+          "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12young-bqjg/12young-bqjg-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12young-bqjg/12young-bqjg-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210
+        },
+        {
+          "url": "https://static01.nyt.com/images/2025/01/12/multimedia/12young-bqjg/12young-bqjg-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440
+        }
+      ]
+    }
+  ],
+  "eta_id": 0
+}
