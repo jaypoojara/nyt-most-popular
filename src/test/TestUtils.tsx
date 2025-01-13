@@ -1,15 +1,23 @@
-import { QueryClientProvider } from "@tanstack/react-query";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { render } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import type { ComponentType, PropsWithChildren } from "react";
 import { BrowserRouter } from "react-router-dom";
-import { AppQueryClient } from "../api/queryClient";
+
+const queryClient = new QueryClient({
+  defaultOptions: {
+    queries: {
+      refetchOnWindowFocus: false, // default: true
+      retry: 0,
+    },
+  },
+});
 
 function customRender(ui: React.ReactElement, { ...renderOptions } = {}) {
   const Wrapper = ({ children }: PropsWithChildren) => {
     return (
       <BrowserRouter>
-        <QueryClientProvider client={AppQueryClient}>
+        <QueryClientProvider client={queryClient}>
           {children}
         </QueryClientProvider>
       </BrowserRouter>

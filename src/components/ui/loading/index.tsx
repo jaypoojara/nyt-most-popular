@@ -12,6 +12,9 @@ const Loading = ({ className }: Props) => {
         className,
       ])}
     >
+      <p className="sr-only" data-testid="loading">
+        Loading...
+      </p>
       <div className="border-8 border-transparent rounded-full p-8 border-y-white animate-spin ease-in-out"></div>
     </div>
   );

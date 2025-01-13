@@ -38,7 +38,7 @@ const Listing = () => {
   }
 
   return (
-    <Wrapper className="flex flex-wrap gap-8">
+    <Wrapper className="flex flex-wrap gap-8" data-testid="list">
       {renderCardList ? (
         renderCardList.map(({ title, byline, id, abstract, url, media }) => (
           <a
