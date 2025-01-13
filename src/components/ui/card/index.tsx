@@ -9,7 +9,7 @@ type Props = {
 
 const Card = ({ title, abstract, media, byline }: Props) => {
   return (
-    <div className="max-w-sm rounded overflow-hidden border cursor-pointer">
+    <div className="max-w-sm rounded overflow-hidden border cursor-pointer h-full">
       <img
         className="w-full"
         src={media.url}
