@@ -5,27 +5,22 @@ type Props = {
   abstract: string;
   media: Image;
   byline: string;
-  keywords: string[];
-  id: string;
 };
 
-const Card = ({ title, abstract, media, keywords, id }: Props) => {
+const Card = ({ title, abstract, media, byline }: Props) => {
   return (
     <div className="max-w-sm rounded overflow-hidden border cursor-pointer">
-      <img className="w-full" src={media.url} alt={media.altText} />
+      <img
+        className="w-full"
+        src={media.url}
+        alt={media.altText}
+        {...(media?.width ? { width: media.width } : {})}
+        {...(media?.height ? { height: media.height } : {})}
+      />
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">{title}</div>
-        <p className="text-gray-700 text-base">{abstract}</p>
-      </div>
-      <div className="px-6 pt-4 pb-2">
-        {keywords.map((keywordItem, index) => (
-          <span
-            className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
-            key={`keyword-${id}-${index}`}
-          >
-            #{keywordItem}
-          </span>
-        ))}
+        <p className="text-gray-700 text-base mb-4">{abstract}</p>
+        <p className="text-sm text-gray-500">{byline}</p>
       </div>
     </div>
   );
