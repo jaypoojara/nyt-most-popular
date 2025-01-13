@@ -4,10 +4,25 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./App.tsx";
 import "./index.css";
 
-createRoot(document.getElementById("root")!).render(
-  <StrictMode>
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
-  </StrictMode>
+async function enableMocking() {
+  console.log("import.meta.env.VITE_MOCK_API: ", { mock: import.meta.env });
+  if (import.meta.env.VITE_MOCK_API !== "true") {
+    return;
+  }
+
+  const { worker } = await import("./test/mock/BrowserMock.ts");
+
+  // `worker.start()` returns a Promise that resolves
+  // once the Service Worker is up and ready to intercept requests.
+  return worker.start();
+}
+
+enableMocking().then(() =>
+  createRoot(document.getElementById("root")!).render(
+    <StrictMode>
+      <BrowserRouter>
+        <App />
+      </BrowserRouter>
+    </StrictMode>
+  )
 );
