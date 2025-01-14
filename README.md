@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Jaypoojara Test Task Of New york time Most Popular Api Integration](#jaypoojara-test-task-of-new-york-time-most-popular-api-integration)
+- [New york time Most Popular Api Integration](#jaypoojara-test-task-of-new-york-time-most-popular-api-integration)
   - [Table of Contents](#table-of-contents)
   - [Tech Stack](#tech-stack)
   - [Scripts](#scripts)
