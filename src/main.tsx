@@ -5,16 +5,15 @@ import App from "./App.tsx";
 import "./index.css";
 
 async function enableMocking() {
-  console.log("import.meta.env.VITE_MOCK_API: ", { mock: import.meta.env });
   if (import.meta.env.VITE_MOCK_API !== "true") {
     return;
   }
 
-  const { worker } = await import("./test/mock/BrowserMock.ts");
+  const { setupMocks } = await import("./test/mock");
 
   // `worker.start()` returns a Promise that resolves
   // once the Service Worker is up and ready to intercept requests.
-  return worker.start();
+  return setupMocks();
 }
 
 enableMocking().then(() =>

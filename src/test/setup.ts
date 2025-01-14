@@ -1,7 +1,7 @@
 import "@testing-library/jest-dom";
 import { cleanup } from "@testing-library/react";
 import { afterEach } from "vitest";
-import { mockedServer } from "./mock/mockServer";
+import { mockedServer } from "./mock/server";
 
 afterEach(() => {
   cleanup();

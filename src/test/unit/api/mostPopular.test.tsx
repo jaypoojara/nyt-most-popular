@@ -1,7 +1,7 @@
 import { http, HttpResponse } from "msw";
 import { toast } from "react-toastify";
 import { useGetMostPopular } from "../../../api/mostPopular/mostPopular.query";
-import { mockedServer } from "../../mock/mockServer";
+import { mockedServer } from "../../mock/server";
 import { queryClient, renderHook, waitFor, Wrapper } from "../../TestUtils";
 
 afterEach(() => {

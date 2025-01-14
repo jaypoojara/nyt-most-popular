@@ -16,9 +16,12 @@ export default defineConfig(() => ({
     setupFiles: "./src/test/setup.ts",
     css: true,
     coverage: {
-      provider: "istanbul", // or 'v8'
+      provider: "v8",
+      include: ["src/api/**/*.ts", "src/**/*.tsx", "src/helpers/**/*.ts"],
+      exclude: ["src/api/*.ts", "src/main.tsx", "src/test/TestUtils.tsx"],
     },
     testDir: "src/test/",
     include: ["src/test/**/*.(test|spec).ts?(x)"],
+    reporter: "verbose",
   },
 }));

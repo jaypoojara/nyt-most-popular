@@ -1,5 +1,5 @@
-import { ResultType, Source, Subsection } from "../../helpers/enum";
 import { Media } from "../../types/common";
+import { ResultType, Source, Subsection } from "../../types/enum";
 import { Responses } from "../api.types";
 
 export type MostPopular = {
