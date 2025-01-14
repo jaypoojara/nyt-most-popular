@@ -7,7 +7,7 @@ type Props = {
 
 const Wrapper: React.FC<Props> = ({ children, className }) => {
   return (
-    <div className={cn(["mx-auto max-w-7xl p-6 lg:px-8", className])}>
+    <div className={cn(["mx-auto max-w-7xl p-6 lg:px-8", className])} data-testid="wrapper-list">
       {children}
     </div>
   );
