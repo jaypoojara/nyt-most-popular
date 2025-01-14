@@ -1,55 +1,69 @@
-# React + TypeScript + Vite
+# Jaypoojara Test Task Of New york time Most Popular Api Integration
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Jaypoojara Test Task Of New york time Most Popular Api Integration](#jaypoojara-test-task-of-new-york-time-most-popular-api-integration)
+  - [Table of Contents](#table-of-contents)
+  - [Tech Stack](#tech-stack)
+  - [Scripts](#scripts)
+  - [Libraries Used and Their Purpose](#libraries-used-and-their-purpose)
+  - [Node Version](#node-version)
+  - [Useful Resources](#useful-resources)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Frontend**: React, Tailwind CSS, TypeScript
+- **Testing**: Vitest, Playwright
+- **State Management**: React
+- **Server State Management**: React Query by tanstack
+- **Styling**: Tailwind CSS, clsx, tailwind-merge
+- **Api Mocking**: MSW
 
-- Configure the top-level `parserOptions` property like this:
+---
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+## Scripts
+
+These are the available scripts in the project:
+
+- `npm run dev`: Starts the development server using Vite.
+- `npm run build`: Builds the project (compiles TypeScript and uses Vite for bundling).
+- `npm run lint`: Runs ESLint for linting code.
+- `npm run preview`: Starts a production preview of the build.
+- `npm run test`: Runs unit tests using Vitest.
+- `npm run test:coverage`: Runs unit tests and generates a coverage report.
+- `npm run test:watch`: Runs tests in watch mode (useful for active development).
+- `npm run test:e2e`: Runs end-to-end tests using Playwright.
+- `npm run test:e2e:ci`: Runs Playwright tests for CI environments.
+
+## Libraries Used and Their Purpose
+
+- **axios**: For making HTTP requests.
+- **react-toastify**: For showing toast notifications (success, error, info, etc.).
+- **clsx**: A utility for conditionally combining class names.
+- **tailwind-merge**: A utility for merging conflicting Tailwind CSS classes.
+- **msw**: For mocking network requests during testing to simulate different responses.
+- **vitest**: For running unit tests and measuring code coverage.
+- **playwright**: For writing and running end-to-end tests with browser automation.
+
+
+
+## Node Version
+
+This project requires Node.js version **`v23.6.0`**. You can verify your version using the following command:
+
+```bash
+node --version
 ```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
-
-## Reference Info Links
+## Useful Resources
+- [React Documentation](https://reactjs.org/)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [React Query Documentation](https://tanstack.com/query/v3)
+- [MSW Documentation](https://mswjs.io/)
+- [Vitest Documentation](https://vitest.dev/)
+- [Playwright Documentation](https://playwright.dev/)
 - [How to setup vitest with typescript](https://akoskm.com/how-to-test-react-apps-with-vitest-and-vite/)
-- https://dev.to/juan_deto/configure-vitest-msw-and-playwright-in-a-react-project-with-vite-and-ts-1d92
-- 
+- [How to setup vitest, msw and playwright](https://dev.to/juan_deto/configure-vitest-msw-and-playwright-in-a-react-project-with-vite-and-ts-1d92)
