@@ -3,12 +3,13 @@ import { render } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import type { ComponentType, PropsWithChildren } from "react";
 import { BrowserRouter } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
 
 const queryClient = new QueryClient({
   defaultOptions: {
     queries: {
       refetchOnWindowFocus: false, // default: true
-      retry: 0,
+      retry: false,
     },
   },
 });
@@ -30,6 +31,14 @@ function customRender(ui: React.ReactElement, { ...renderOptions } = {}) {
     ...renderOptions,
   });
 }
+export const Wrapper = ({ children }: PropsWithChildren) => {
+  return (
+    <BrowserRouter>
+      <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
+      <ToastContainer />
+    </BrowserRouter>
+  );
+};
 
 function setup(jsx: React.ReactElement) {
   return {
@@ -41,4 +50,5 @@ function setup(jsx: React.ReactElement) {
 export * from "@testing-library/react";
 
 // override render export
-export { setup };
+export { customRender, queryClient, setup };
+

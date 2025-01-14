@@ -1,4 +1,4 @@
-import nytMostPopularResponseGet from "./nytMostPopularResponse.json";
+import { response as nytMostPopularResponseGet } from "./nytMostPopularResponse";
 
 export const responses = {
   nytMostPopularResponseGet,
