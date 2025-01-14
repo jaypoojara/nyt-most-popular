@@ -1,4 +1,5 @@
-# Jaypoojara Test Task Of New york time Most Popular Api Integration
+# New york time Most Popular Api Integration
+- yarn install to install node modules
 
 ## Table of Contents
 
@@ -27,15 +28,15 @@
 
 These are the available scripts in the project:
 
-- `npm run dev`: Starts the development server using Vite.
-- `npm run build`: Builds the project (compiles TypeScript and uses Vite for bundling).
-- `npm run lint`: Runs ESLint for linting code.
-- `npm run preview`: Starts a production preview of the build.
-- `npm run test`: Runs unit tests using Vitest.
-- `npm run test:coverage`: Runs unit tests and generates a coverage report.
-- `npm run test:watch`: Runs tests in watch mode (useful for active development).
-- `npm run test:e2e`: Runs end-to-end tests using Playwright.
-- `npm run test:e2e:ci`: Runs Playwright tests for CI environments.
+- `yarn dev`: Starts the development server using Vite.
+- `yarn build`: Builds the project (compiles TypeScript and uses Vite for bundling).
+- `yarn lint`: Runs ESLint for linting code.
+- `yarn preview`: Starts a production preview of the build.
+- `yarn test`: Runs unit tests using Vitest.
+- `yarn test:coverage`: Runs unit tests and generates a coverage report.
+- `yarn test:watch`: Runs tests in watch mode (useful for active development).
+- `yarn test:e2e`: Runs end-to-end tests using Playwright.
+- `yarn test:e2e:ci`: Runs Playwright tests for CI environments.
 
 ## Libraries Used and Their Purpose
 

@@ -5,7 +5,7 @@ import {
 } from '@playwright/test';
 
 test.describe('Most Popular News Listing', () => {
-  const PAGE_URL = 'http://localhost:5173/nyt-most-popular-news';
+  const PAGE_URL = 'http://localhost:5174/nyt-most-popular-news';
 
   const waitForLoaderToHide = async (page: Page) => {
     await page.waitForSelector('[data-testid="loading"]', { state: 'hidden', timeout: 10000 });
