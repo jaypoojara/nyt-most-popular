@@ -22,6 +22,5 @@ export default defineConfig(() => ({
     },
     testDir: "src/test/",
     include: ["src/test/**/*.(test|spec).ts?(x)"],
-    reporter: "verbose",
   },
 }));

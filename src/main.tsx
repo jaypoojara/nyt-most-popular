@@ -8,12 +8,11 @@ async function enableMocking() {
   if (import.meta.env.VITE_MOCK_API !== "true") {
     return;
   }
-
-  const { setupMocks } = await import("./test/mock");
+  const { worker } = await import("./test/mock/browser.ts");
 
   // `worker.start()` returns a Promise that resolves
   // once the Service Worker is up and ready to intercept requests.
-  return setupMocks();
+  return worker.start();
 }
 
 enableMocking().then(() =>
